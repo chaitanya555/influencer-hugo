@@ -36,7 +36,7 @@ preview:
   button:
     enable : true
     label : "Purchase on Amazon"
-    link : "#"
+    link : "https://amzn.to/3w8dJvu"
 
 
 ########################## Service ##############################
@@ -156,22 +156,27 @@ devices:
   button:
     enable : true
     label : "Purchase on amazon"
-    link : "#"
+    link : "https://themify.me/themify-icons"
 
 ######################################## author #############################
 author:
   enable : true
   image : "images/about/home-1.jpg"
-  name : "Yasin Arafat"
-  designation : "A technical Writer"
+  name : "Disha Sharma"
+  designation : "Writer"
   content : "
-  Do you want to be even more successful? Learn to love learn and growth. The more efort you put into improving your skills, the bigger the payoff you will get.
+  I write poems to share what's in my heart,
+To show my feelings and thoughts through my art.
+I use words to express my joy and my pain,
+To paint pictures of life, again and again.
 
-
-  It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+I write because it helps me to see,
+All the beauty and wonder in the world around me.
+And when things are tough, or life gets me down,
+My poems are there to lift me off the ground."
 
   # signature
-  signature : "images/about/2.png"
+  signature : "ds"
 
 
 ################################ Awards #####################################
